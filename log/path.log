@@ -63,3 +63,16 @@
 1729756633|/sitea2/index.php?id=info|http://localhost/sitea2/index.php?id=about
 1729756634|/sitea2/index.php?id=gbook|http://localhost/sitea2/index.php?id=info
 1729756634|/sitea2/index.php?id=log|http://localhost/sitea2/index.php?id=gbook
+1729758030|/sitea2/index.php|-
+1729758033|/sitea2/index.php|http://localhost/sitea2/index.php
+1729758033|/sitea2/index.php?id=contact|http://localhost/sitea2/index.php
+1729758034|/sitea2/index.php?id=about|http://localhost/sitea2/index.php?id=contact
+1729758035|/sitea2/index.php?id=info|http://localhost/sitea2/index.php?id=about
+1729758035|/sitea2/index.php?id=gbook|http://localhost/sitea2/index.php?id=info
+1729758036|/sitea2/index.php?id=log|http://localhost/sitea2/index.php?id=gbook
+1731993547|/sitea2/|https://classroom.google.com/
+1731993550|/sitea2/index.php?id=gbook|http://localhost/sitea2/
+1732103877|/sitea2/index.php?id=gbook|-
+1732103881|/sitea2/index.php?id=gbook|http://localhost/sitea2/index.php?id=gbook
+1732103882|/sitea2/index.php?id=info|http://localhost/sitea2/index.php?id=gbook
+1732103882|/sitea2/index.php?id=gbook|http://localhost/sitea2/index.php?id=info
