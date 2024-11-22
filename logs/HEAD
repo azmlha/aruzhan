@@ -5,3 +5,16 @@ aa9d97d49e9a22d7b600bc397df08428d839897a a80ff28af1e12d1368366bf44b3464279724324
 a80ff28af1e12d1368366bf44b3464279724324f 0000000000000000000000000000000000000000 murakami-dub <eszanovaamina3@gmail.com> 1729757632 +0500	Branch: renamed refs/heads/main to refs/heads/main
 a80ff28af1e12d1368366bf44b3464279724324f a80ff28af1e12d1368366bf44b3464279724324f murakami-dub <eszanovaamina3@gmail.com> 1729757632 +0500	Branch: renamed refs/heads/main to refs/heads/main
 a80ff28af1e12d1368366bf44b3464279724324f a80ff28af1e12d1368366bf44b3464279724324f ИБ-22-3Б <КамбарА@Polytech2.kz> 1732255803 +0500	reset: moving to HEAD
+a80ff28af1e12d1368366bf44b3464279724324f a80ff28af1e12d1368366bf44b3464279724324f alvmxa@gmail.com <КамбарА@Polytech2.kz> 1732256369 +0500	checkout: moving from main to master
+a80ff28af1e12d1368366bf44b3464279724324f 97d0c870f44d2a9c83bea34fe219ce4c9415989e alvmxa@gmail.com <КамбарА@Polytech2.kz> 1732256491 +0500	commit: a
+97d0c870f44d2a9c83bea34fe219ce4c9415989e cdf220d938aaf64e2f6efe1eb43e36daf28db8d0 azmlha u <alvmxa@gmail.com> 1732256687 +0500	commit: Initial commit
+cdf220d938aaf64e2f6efe1eb43e36daf28db8d0 ebbfaa10004572386e841d1092da3ed1ecac7e1e azmlha u <alvmxa@gmail.com> 1732256771 +0500	commit: Initial commit
+ebbfaa10004572386e841d1092da3ed1ecac7e1e ffbaf8af89afa235f11880de171b1da62aef70c9 azmlha u <alvmxa@gmail.com> 1732256955 +0500	commit: szdx
+ffbaf8af89afa235f11880de171b1da62aef70c9 a80ff28af1e12d1368366bf44b3464279724324f azmlha u <alvmxa@gmail.com> 1732257050 +0500	checkout: moving from master to main
+a80ff28af1e12d1368366bf44b3464279724324f 1727f51b0d4d963d3e35d602e073767ca0361a55 azmlha u <alvmxa@gmail.com> 1732257838 +0500	commit: s
+1727f51b0d4d963d3e35d602e073767ca0361a55 1727f51b0d4d963d3e35d602e073767ca0361a55 azmlha u <alvmxa@gmail.com> 1732257941 +0500	checkout: moving from main to main
+1727f51b0d4d963d3e35d602e073767ca0361a55 ffbaf8af89afa235f11880de171b1da62aef70c9 azmlha u <alvmxa@gmail.com> 1732257947 +0500	checkout: moving from main to master
+ffbaf8af89afa235f11880de171b1da62aef70c9 ef8ee3bd41904576207f755f30e7d50f9a329ac1 azmlha u <alvmxa@gmail.com> 1732259954 +0500	commit: Your commit message
+ef8ee3bd41904576207f755f30e7d50f9a329ac1 01a591ff5b69a13bcabf01cdf4a045746aeb767e azmlha u <alvmxa@gmail.com> 1732260605 +0500	commit: Описание изменений
+01a591ff5b69a13bcabf01cdf4a045746aeb767e 4702ea05f7c8cf1de620865da14555546f3e05e6 azmlha u <alvmxa@gmail.com> 1732260700 +0500	commit: Описание изменений
+4702ea05f7c8cf1de620865da14555546f3e05e6 4702ea05f7c8cf1de620865da14555546f3e05e6 azmlha u <alvmxa@gmail.com> 1732260851 +0500	checkout: moving from master to aruzhan

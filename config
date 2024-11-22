@@ -5,6 +5,15 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
+[user]
+	name = azmlha u
+	email = alvmxa@gmail.com
 [remote "origin"]
-	url = https://github.com/azmlha/aruzhan.git
+	url = https://alvmxa@bitbucket.org/azmlha/aruzhan.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
